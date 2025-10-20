@@ -13,7 +13,7 @@ The course will go through classical topics in Signal Processing, such as Fourie
 We will survey the mathematical tools and knowledge that accumulated over the course of half a century of research in the field of Signal Processing and the gap created by representing continuous signals in a discrete manner. In addition, the course aims to connect some of these concepts to modern approaches in Signal Processing, which are often based on Machine Learning and Deep Neural Networks.
 
 ### Learning Outcome:
-At the end of this course, students will be able to: 
+At the end of this course, students will be able to:
 - Explain basic principles in signal processing
 - Use Fourier-based and Wavelets-based methods to manipulate signals.
 - Understand the ideas behind convolution and how it is implemented in practice.
@@ -41,10 +41,14 @@ None
 
 ### Additional Reading Material:
 "Digital Signal Processing: Principles, Algorithms, and Applications" by John G. Proakis and Dimitris G. Manolakis.
+
 "Wavelet Methods in Statistics with R" by Guy Nason.
+
 "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+
 “Ten Lectures on Wavelets” by Ingird Daubechies.
 
 ### Grading Scheme:
 Essay / Project / Final Assignment / Referat 80 %
+
 Submission assignments during the semester: Exercises / Essays / Audits / Reports / Forum / Simulation / others 20 %
